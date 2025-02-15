@@ -274,7 +274,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## Contact
 For questions or collaboration:  
 - **GitHub:** [@evildead23151](https://github.com/evildead23151)  
-- **Email:** [Your Email]  
+- **Email:** [giteshmalik@gmail.com]  
 - **Project Link:** [Analytics Repository](https://github.com/evildead23151/Analytics)  
 
 ## Citation
